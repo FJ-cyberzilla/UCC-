@@ -425,7 +425,7 @@ python main.py check username --delay 5 --max-workers 1
 
 <div align="center">
 
-**⭐ Star this repository if you find it useful! ⭐**
+** Star this repository if you find it useful! ⭐**
 
 Made with ⚡ by [FJ-Cyberzilla](https://github.com/FJ-Cyberzilla)
 
