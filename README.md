@@ -8,7 +8,7 @@
 
 > **The most advanced username availability checker that dominates modern anti-bot systems**
 
-UltimateUsernameChecker is a powerful, multi-strategy username availability checker that can bypass advanced anti-bot protections, solve CAPTCHAs, and check username availability across 50+ platforms with military-grade precision.
+UCC is a powerful, multi-strategy username availability checker that can bypass advanced anti-bot protections, solve CAPTCHAs, and check username availability across 50+ platforms with military-grade precision.
 
 ## 🚀 Features
 
@@ -429,6 +429,6 @@ python main.py check username --delay 5 --max-workers 1
 
 Made with ⚡ by [FJ-Cyberzilla](https://github.com/FJ-Cyberzilla)
 
-*"Dominating username availability checking since 2024"*
+*"Dominating username availability checking since 2020"*
 
 </div>
