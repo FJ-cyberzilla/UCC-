@@ -1,0 +1,146 @@
+## .gitignore**
+
+```gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+config/api_keys.py
+data/proxies.txt
+logs/
+reports/
+output/
+results/
+
+# Proxy lists (sensitive)
+*.proxy
+*_proxies.txt
+
+# API keys (sensitive)
+*_keys.json
+*_tokens.txt
+
+# Browser automation
+webdriver/
+geckodriver.log
+chromedriver.log
+
+# Large files
+*.large
+# Playwright browsers (can be large)
+/ms-playwright/
+.playwright/
+
+# Selenium drivers
+*driver.exe
+*driver
+
+# Screenshots from automation
+screenshots/
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Database files (if you add any)
+*.db
+*.sqlite
+*.sqlite3
+
+# Compressed files
+*.zip
+*.rar
+*.tar.gz
+
+# MacOS specific
+.AppleDouble
+.LSOverride
+
+# Windows specific  
+*.lnk
+desktop.ini
+
+# Linux specific
+*~
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# pytest
+.pytest_cache/
+__pytest_cache__/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
