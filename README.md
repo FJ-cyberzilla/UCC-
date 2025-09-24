@@ -415,9 +415,9 @@ python main.py check username --delay 5 --max-workers 1
 ### Contact
 - **Author**: [FJ-Cyberzilla](https://github.com/FJ-Cyberzilla)
 - **Email**: [cyberzilla.systems@gmail.com](mailto:cyberzilla.systems@gmail.com)
-- **GitHub**: [https://github.com/FJ-Cyberzilla/UltimateUsernameChecker](https://github.com/FJ-Cyberzilla/UltimateUsernameChecker)
-
-### Community
+  
+- **GitHub**: [https://github.com/FJ-cyberzilla/UCC-.git]
+  
 - **Issues**: [GitHub Issues](https://github.com/FJ-Cyberzilla/UltimateUsernameChecker/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/FJ-Cyberzilla/UltimateUsernameChecker/discussions)
 - **Pull Requests**: [Contributions Welcome](https://github.com/FJ-Cyberzilla/UltimateUsernameChecker/pulls)
